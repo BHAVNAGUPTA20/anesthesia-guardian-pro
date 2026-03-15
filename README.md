@@ -1,1 +1,6 @@
-# anesthesia-guardian-pro
+streamlit
+pandas
+plotly
+gspread
+oauth2client
+python-dateutil
